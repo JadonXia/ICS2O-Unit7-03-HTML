@@ -6,7 +6,7 @@ document.getElementById('button1').addEventListener('click', rating)
 
 // Now, I need to write the code for my function.
 function rating () {
-  age = document.getElementById
+  age = document.getElementById('text1').value
   age = parseInt(age)
   if (age >= 17) {
     document.getElementById('results').innerHTML = 'You can watch an R rated movie alone. You can also watch any age rating below R rated.'

@@ -1,0 +1,23 @@
+body {
+  background-color: black;
+}
+
+.box1 {
+  border: solid white 2px;
+  padding: 10px;
+  width: 25%;
+  color: white;
+}
+
+.box2 {
+  border: solid white 2px;
+  padding: 10px;
+  width: 50%;
+  color: white;
+}
+
+img {
+  border: solid white 2px;
+  width: 25%;
+  height: 25%;
+}
